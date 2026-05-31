@@ -110,7 +110,7 @@ Sequential(
 
 ```bash
 # Clone the repository
-git clone https://github.com/Ibnbuba-A360/Wildfire-Detection-Using-Convolutional-Neural-Networks.git
+git clone https://github.com/Ibnbuba-A360/Wildfire-Detection-Using-DeepLearning-Convolutional-Neural-Networks.git
 cd Wildfire-Detection-Using-Convolutional-Neural-Networks
 
 # Create virtual environment (recommended)
