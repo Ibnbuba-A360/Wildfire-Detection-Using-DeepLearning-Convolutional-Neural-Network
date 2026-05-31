@@ -1,4 +1,4 @@
-# 🔥 Wildfire Detection Using Convolutional Neural Networks
+# 🔥 Wildfire Detection Using Deep Learning Convolutional Neural Networks
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.11.0-red.svg)](https://pytorch.org/)
